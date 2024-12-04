@@ -68,5 +68,4 @@ public class DeptCotroller {
         return Result.success();
     }
 
-
 }
